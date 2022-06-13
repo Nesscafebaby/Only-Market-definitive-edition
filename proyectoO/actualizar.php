@@ -16,7 +16,7 @@
     </head>
 <body>
 <header id="titulo">
-        <h1 id="titulo">Consulte todo lo necesario</h1>
+        <h1 id="titulo">Cambie todo lo necesario</h1>
     </header>
 
       <table>

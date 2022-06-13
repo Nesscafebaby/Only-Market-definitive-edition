@@ -1,4 +1,4 @@
 
 function mostrar(){
-    swal('Hola negro asqueroso');
+    swal('Hola');
 }
